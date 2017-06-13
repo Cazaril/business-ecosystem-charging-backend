@@ -100,6 +100,7 @@ MIDDLEWARE_CLASSES = (
 
 WSTOREMAILUSER = 'email_user'
 WSTOREMAIL = 'eugenio90@gmail.com'
+
 WSTOREMAILPASS = 'wstore_email_passwd'
 SMTPSERVER = 'wstore_smtp_server'
 SMTPPORT = 587
